@@ -1,0 +1,59 @@
+.heading {
+    font-size: 23px;
+    width: 95%;
+    margin: 0px;
+    float: center;
+    box-shadow: 5px 5px 5px white;
+}
+
+.note {
+    font-size: 15px;
+    color: steelblue;
+}
+
+body {
+    font-family: 'Special Elite', cursive;
+    background-size: cover;
+}
+
+.div_speed {
+    float: left;
+}
+
+#speed {
+    margin: 15px;
+    font-size: 23px;
+    box-shadow: 5px 5px 5px white;
+}
+
+.div_speed_img {
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+}
+
+.div_volume_img {
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+}
+
+#volume {
+    margin: 15px;
+    font-size: 23px;
+    box-shadow: 5px 5px 5px white;
+}
+
+.div_volume {
+    float: right;
+}
+
+.play_button {
+    font-size: 23px;
+    width: 130px;
+}
+
+canvas {
+    border: 5px solid white;
+    border-radius: 10px;
+}
